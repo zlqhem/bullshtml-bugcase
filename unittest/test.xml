@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BullseyeCoverage 8.9.6 Windows License 11010 -->
+<BullseyeCoverage name="test.cov" dir="d:/work/bug-bullshtml/unittest/" buildId="36dc55262014-06-07 21:19:20" version="4" xmlns="http://www.bullseye.com/covxml">
+<folder name=".." fn_cov="0" fn_total="3" cd_cov="0" cd_total="42" d_cov="0" d_total="12">
+<folder name="src" fn_cov="0" fn_total="3" cd_cov="0" cd_total="42" d_cov="0" d_total="12">
+<src name="Util.c" mtime="1402143236" fn_cov="0" fn_total="3" cd_cov="0" cd_total="42" d_cov="0" d_total="12">
+<fn name="A(int,int,int,int,int)" fn_cov="0" fn_total="1" cd_cov="0" cd_total="14" d_cov="0" d_total="4">
+<probe line="27" column="3" kind="function" event="none"/>
+<probe line="30" kind="decision" event="none"/>
+<probe line="30" column="3" kind="condition" event="none"/>
+<probe line="30" column="6" kind="condition" event="none"/>
+<probe line="30" column="9" kind="condition" event="none"/>
+<probe line="33" column="4" kind="decision" event="none"/>
+<probe line="33" column="7" kind="condition" event="none"/>
+<probe line="33" column="10" kind="condition" event="none"/>
+</fn>
+<fn name="B(int,int,int,int,int)" fn_cov="0" fn_total="1" cd_cov="0" cd_total="14" d_cov="0" d_total="4">
+<probe line="15" column="3" kind="function" event="none"/>
+<probe line="18" kind="decision" event="none"/>
+<probe line="18" column="3" kind="condition" event="none"/>
+<probe line="18" column="6" kind="condition" event="none"/>
+<probe line="18" column="9" kind="condition" event="none"/>
+<probe line="21" column="4" kind="decision" event="none"/>
+<probe line="21" column="7" kind="condition" event="none"/>
+<probe line="21" column="10" kind="condition" event="none"/>
+</fn>
+<fn name="Util_example(int,int,int,int,int)" fn_cov="0" fn_total="1" cd_cov="0" cd_total="14" d_cov="0" d_total="4">
+<probe line="2" column="3" kind="function" event="none"/>
+<probe line="5" kind="decision" event="none"/>
+<probe line="5" column="3" kind="condition" event="none"/>
+<probe line="5" column="6" kind="condition" event="none"/>
+<probe line="5" column="9" kind="condition" event="none"/>
+<probe line="8" column="4" kind="decision" event="none"/>
+<probe line="8" column="7" kind="condition" event="none"/>
+<probe line="8" column="10" kind="condition" event="none"/>
+</fn>
+</src>
+</folder>
+</folder>
+<src name="test.c" mtime="1402143181" fn_cov="0" fn_total="1" cd_cov="0" cd_total="0" d_cov="0" d_total="0">
+<fn name="main()" fn_cov="0" fn_total="1" cd_cov="0" cd_total="0" d_cov="0" d_total="0">
+<probe line="3" column="4" kind="function" event="none"/>
+</fn>
+</src>
+</BullseyeCoverage>

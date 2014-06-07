@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<coverage generated="1402143574" clover="3.0.2" xmlns="http://schemas.atlassian.com/clover3/report">
+   <project timestamp="1402143574" name="bullshtml result">
+      	<metrics coveredelements="0" elements="16" coveredconditionals="0" conditionals="12" coveredmethods="0" methods="4" coveredstatements="0" statements="0" />
+
+        <package name="D__work_bug-bullshtml_src">
+            <metrics coveredelements="0" elements="15" coveredconditionals="0" conditionals="12" coveredmethods="0" methods="3" coveredstatements="0" statements="0" />
+
+                <file path="D:/work/bug-bullshtml/src/Util.c" name="Util_c">
+                    <metrics coveredelements="0" elements="15" coveredconditionals="0" conditionals="12" coveredmethods="0" methods="3" coveredstatements="0" statements="0" />
+
+                    <line num="27" signature="A(int,int,int,int,int)" type="method" complexity="3" count="0"/>
+
+                    <line falsecount="0" num="30" type="cond" truecount="0"/>
+                        
+                    <line falsecount="0" num="33" type="cond" truecount="0"/>
+                        
+
+                    <line num="15" signature="B(int,int,int,int,int)" type="method" complexity="3" count="0"/>
+
+                    <line falsecount="0" num="18" type="cond" truecount="0"/>
+                        
+                    <line falsecount="0" num="21" type="cond" truecount="0"/>
+                        
+
+                    <line num="2" signature="Util_example(int,int,int,int,int)" type="method" complexity="3" count="0"/>
+
+                    <line falsecount="0" num="5" type="cond" truecount="0"/>
+                        
+                    <line falsecount="0" num="8" type="cond" truecount="0"/>
+                        
+
+                </file>
+
+        </package>
+
+        <package name="D__work_bug-bullshtml_unittest">
+            <metrics coveredelements="0" elements="1" coveredconditionals="0" conditionals="0" coveredmethods="0" methods="1" coveredstatements="0" statements="0" />
+
+                <file path="D:/work/bug-bullshtml/unittest/test.c" name="test_c">
+                    <metrics coveredelements="0" elements="1" coveredconditionals="0" conditionals="0" coveredmethods="0" methods="1" coveredstatements="0" statements="0" />
+
+                    <line num="3" signature="main()" type="method" complexity="1" count="0"/>
+
+                </file>
+
+        </package>
+
+   </project>
+</coverage>

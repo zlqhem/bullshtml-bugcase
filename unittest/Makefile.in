@@ -1,0 +1,8 @@
+CREST := @CREST@
+CPPUTEST := $(CREST)/../CppUTest
+
+SRCS := @SRCS@
+
+CFLAGS := @CFLAGS@
+
+include rules.mk
